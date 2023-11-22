@@ -1,0 +1,69 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html5-logo.png",
+      "title": "HTML5"
+    },
+
+    {
+      "id": "2",
+      "src": "./img/CSS3-logo.png",
+      "title": "CSS3"
+    },
+    {
+      "id": "3",
+      "src": "./img/javascript-logo.png",
+      "title": "Javascript"
+    },
+    {
+      "id": "4",
+      "src": "./img/Bootstrap_logo.png",
+      "title": "Bootstrap"
+    },
+    {
+      "id": "5",
+      "src": "./img/react-logo.png",
+      "title": "React"
+    },
+    {
+      "id": "6",
+      "src": "./img/material-ui-logo.png",
+      "title": "MaterialUI"
+    },
+    {
+      "id": "6",
+      "src": "./img/github-mark-white.png",
+      "title": "Github"
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Simple Interest Calculator",
+      "description": "A website to calculate simple interest ",
+      "link": "View in GitHub"
+    },
+
+    {
+      "id": "2",
+      "src": "./img/nike-1.png",
+      "title": "Nike website",
+      "description": " It is a clone of Nike website.",
+      "link": "View in GitHub"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Portfolio",
+      "description": "Simple Portfolio website",
+      "link": "View in GitHub"
+    }
+
+  ]
+
+ 
+  
+}
