@@ -12,12 +12,12 @@ export default function AboutMe() {
           <p className="hero--section--description">
             Hello, I'm Sreerag.
             I hold a degree in computer science from Emea College, Kondotty,
-            and currently, I'm aWeb Developer Intern at {" "}
+            and currently, I'm a web Developer Intern at {" "}
             <a
               style={{ textDecorationLine: "none", color: "#561128" }}
               href="https://www.luminartechnolab.com/"
             >
-              Luminar techno Lab Calicalut
+              Luminar techno Lab Calicalut 
             </a>
           </p>
 
